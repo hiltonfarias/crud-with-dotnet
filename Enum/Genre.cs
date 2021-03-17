@@ -1,4 +1,4 @@
-namespace Crud.Series
+namespace CrudSeries
 {
     public enum Genre
     {

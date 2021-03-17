@@ -1,6 +1,6 @@
 using System;
 
-namespace Crud.Series
+namespace CrudSeries
 {
     public abstract class BaseEntity
     {
