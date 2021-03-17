@@ -24,6 +24,9 @@ namespace CrudSeries
                     case "4":
                         DeleteSeries();
                         break;
+                    case "5":
+                        ViewSeries();
+                        break;
                     case "C":
                         Console.Clear();
                         break;
@@ -34,6 +37,15 @@ namespace CrudSeries
             }
             Console.WriteLine("Thank you for using our services");
             Console.ReadLine();
+        }
+
+        private static void ViewSeries()
+        {
+            Console.WriteLine("Enter the series Id to be viewed: ");
+            int seriesId = int.Parse(Console.ReadLine());
+
+            var series = seriesRepository.ReturnById(seriesId);
+            Console.WriteLine(series.ToString());
         }
 
         private static void DeleteSeries()
@@ -118,7 +130,16 @@ namespace CrudSeries
             }
             foreach (var series in list)
             {
-                Console.WriteLine("#ID {0}: - {1}", series.returnId(), series.returnTitle());
+                var deleted = series.returnDeletedId();
+                if (!deleted)
+                {
+                    Console.WriteLine("#ID {0}: - {1}", series.returnId(), series.returnTitle());
+                } 
+                else
+                {
+                    Console.WriteLine("Deleted series");
+                }
+                
             }
         }
 

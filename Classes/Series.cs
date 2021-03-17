@@ -41,6 +41,10 @@ namespace CrudSeries
             return this.Id;
         }
 
+        public bool returnDeletedId()
+        {
+            return this.Deleted;
+        }
         public void Delete()
         {
             this.Deleted = true;
