@@ -1,0 +1,16 @@
+/home/hilton/Documentos/Aulas/c-sharp/CrudSeries/bin/Debug/net5.0/Crud.Series
+/home/hilton/Documentos/Aulas/c-sharp/CrudSeries/bin/Debug/net5.0/Crud.Series.deps.json
+/home/hilton/Documentos/Aulas/c-sharp/CrudSeries/bin/Debug/net5.0/Crud.Series.runtimeconfig.json
+/home/hilton/Documentos/Aulas/c-sharp/CrudSeries/bin/Debug/net5.0/Crud.Series.runtimeconfig.dev.json
+/home/hilton/Documentos/Aulas/c-sharp/CrudSeries/bin/Debug/net5.0/Crud.Series.dll
+/home/hilton/Documentos/Aulas/c-sharp/CrudSeries/bin/Debug/net5.0/ref/Crud.Series.dll
+/home/hilton/Documentos/Aulas/c-sharp/CrudSeries/bin/Debug/net5.0/Crud.Series.pdb
+/home/hilton/Documentos/Aulas/c-sharp/CrudSeries/obj/Debug/net5.0/Crud.Series.csprojAssemblyReference.cache
+/home/hilton/Documentos/Aulas/c-sharp/CrudSeries/obj/Debug/net5.0/Crud.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilton/Documentos/Aulas/c-sharp/CrudSeries/obj/Debug/net5.0/Crud.Series.AssemblyInfoInputs.cache
+/home/hilton/Documentos/Aulas/c-sharp/CrudSeries/obj/Debug/net5.0/Crud.Series.AssemblyInfo.cs
+/home/hilton/Documentos/Aulas/c-sharp/CrudSeries/obj/Debug/net5.0/Crud.Series.csproj.CoreCompileInputs.cache
+/home/hilton/Documentos/Aulas/c-sharp/CrudSeries/obj/Debug/net5.0/Crud.Series.dll
+/home/hilton/Documentos/Aulas/c-sharp/CrudSeries/obj/Debug/net5.0/ref/Crud.Series.dll
+/home/hilton/Documentos/Aulas/c-sharp/CrudSeries/obj/Debug/net5.0/Crud.Series.pdb
+/home/hilton/Documentos/Aulas/c-sharp/CrudSeries/obj/Debug/net5.0/Crud.Series.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hilton/Documentos/Aulas/c-sharp/Crud.Series/Crud.Series.csproj",
+      "projectUniqueName": "/home/hilton/Documentos/Aulas/c-sharp/CrudSeries/Crud.Series.csproj",
       "projectName": "Crud.Series",
-      "projectPath": "/home/hilton/Documentos/Aulas/c-sharp/Crud.Series/Crud.Series.csproj",
+      "projectPath": "/home/hilton/Documentos/Aulas/c-sharp/CrudSeries/Crud.Series.csproj",
       "packagesPath": "/home/hilton/.nuget/packages/",
-      "outputPath": "/home/hilton/Documentos/Aulas/c-sharp/Crud.Series/obj/",
+      "outputPath": "/home/hilton/Documentos/Aulas/c-sharp/CrudSeries/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/hilton/.nuget/NuGet/NuGet.Config"
